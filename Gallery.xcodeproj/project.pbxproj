@@ -18,6 +18,10 @@
 		800F12B9169E63AE0013116C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 800F12B8169E63AE0013116C /* Default-568h@2x.png */; };
 		800F12BC169E63AE0013116C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 800F12BB169E63AE0013116C /* ViewController.m */; };
 		800F12BF169E63AE0013116C /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 800F12BD169E63AE0013116C /* ViewController.xib */; };
+		800F12CA169E699B0013116C /* Brad Cox.png in Resources */ = {isa = PBXBuildFile; fileRef = 800F12C6169E699B0013116C /* Brad Cox.png */; };
+		800F12CB169E699B0013116C /* Dennis Ritchie.png in Resources */ = {isa = PBXBuildFile; fileRef = 800F12C7169E699B0013116C /* Dennis Ritchie.png */; };
+		800F12CC169E699B0013116C /* Matthijs.png in Resources */ = {isa = PBXBuildFile; fileRef = 800F12C8169E699B0013116C /* Matthijs.png */; };
+		800F12CD169E699B0013116C /* Ray.png in Resources */ = {isa = PBXBuildFile; fileRef = 800F12C9169E699B0013116C /* Ray.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +41,10 @@
 		800F12BA169E63AE0013116C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		800F12BB169E63AE0013116C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		800F12BE169E63AE0013116C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		800F12C6169E699B0013116C /* Brad Cox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Brad Cox.png"; sourceTree = "<group>"; };
+		800F12C7169E699B0013116C /* Dennis Ritchie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dennis Ritchie.png"; sourceTree = "<group>"; };
+		800F12C8169E699B0013116C /* Matthijs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Matthijs.png; sourceTree = "<group>"; };
+		800F12C9169E699B0013116C /* Ray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ray.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				800F12A8169E63AE0013116C /* Gallery */,
+				800F12C5169E699B0013116C /* Images */,
 				800F12A1169E63AE0013116C /* Frameworks */,
 				800F129F169E63AE0013116C /* Products */,
 			);
@@ -105,6 +114,17 @@
 				800F12B8169E63AE0013116C /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		800F12C5169E699B0013116C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				800F12C6169E699B0013116C /* Brad Cox.png */,
+				800F12C7169E699B0013116C /* Dennis Ritchie.png */,
+				800F12C8169E699B0013116C /* Matthijs.png */,
+				800F12C9169E699B0013116C /* Ray.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +183,10 @@
 				800F12B7169E63AE0013116C /* Default@2x.png in Resources */,
 				800F12B9169E63AE0013116C /* Default-568h@2x.png in Resources */,
 				800F12BF169E63AE0013116C /* ViewController.xib in Resources */,
+				800F12CA169E699B0013116C /* Brad Cox.png in Resources */,
+				800F12CB169E699B0013116C /* Dennis Ritchie.png in Resources */,
+				800F12CC169E699B0013116C /* Matthijs.png in Resources */,
+				800F12CD169E699B0013116C /* Ray.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
